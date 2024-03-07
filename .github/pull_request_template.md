@@ -5,7 +5,7 @@
 Work Item ID: AB#
 
 
-## Test approach <!-- Remove if not needed -->
+## How has it been tested? <!-- Remove if not needed -->
 
 
 ## Release Note <!-- Remove if not needed -->
